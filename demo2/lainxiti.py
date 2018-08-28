@@ -48,5 +48,5 @@ if __name__ == '__main__':
     # line3''')
     # print(r'''hello,\n
     # world''')
-    # print('%2d-%02d' % (3, 1))
+    # print('%03d-%02d' % (3, 1))
     # print('%.2f' % 3.1415926)

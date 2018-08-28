@@ -5,42 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd61efaa-7689-4d58-995f-df41e86bede9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/helloWord.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/biaobai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/bioabai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/diguihanshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/fushuxing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/guanjianzicanshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/hanshudioayong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/hansu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/huanhang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/jijianchengchu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/kebiancanshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/liebiao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/love.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/morencanshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/suoyin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/tiaojianpamfuan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/tiapjian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/tioajianpamduan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/wujioaxing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/xunhaun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2/gaojiehanshu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2/lainxiti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2/learn01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2/lianxi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2/liebaio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2/liebiao2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/learn03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/learn04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/learn05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/learn06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/learn07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/learn2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2/lainxiti.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo2/lainxiti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2/learn01.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo2/learn01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,21 +28,27 @@
     <SUITE FILE_PATH="coverage/helloWord$liebiao.coverage" NAME="liebiao Coverage Results" MODIFIED="1531544355959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$hansu.coverage" NAME="hansu Coverage Results" MODIFIED="1531378265530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$tioajianpamduan.coverage" NAME="tioajianpamduan Coverage Results" MODIFIED="1531295569063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/helloWord$learn04.coverage" NAME="learn04 Coverage Results" MODIFIED="1535284135542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
+    <SUITE FILE_PATH="coverage/helloWord$learn01.coverage" NAME="learn01 Coverage Results" MODIFIED="1534256006698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
     <SUITE FILE_PATH="coverage/helloWord$love.coverage" NAME="love Coverage Results" MODIFIED="1531406096114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1534155598964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
     <SUITE FILE_PATH="coverage/helloWord$tiapjian.coverage" NAME="tiapjian Coverage Results" MODIFIED="1531296393737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$liebaio.coverage" NAME="liebaio Coverage Results" MODIFIED="1531545069503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
+    <SUITE FILE_PATH="coverage/helloWord$learn06.coverage" NAME="learn06 Coverage Results" MODIFIED="1535461633092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
+    <SUITE FILE_PATH="coverage/helloWord$learn03.coverage" NAME="learn03 Coverage Results" MODIFIED="1534837857327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
     <SUITE FILE_PATH="coverage/helloWord$continue.coverage" NAME="continue Coverage Results" MODIFIED="1531299052833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$liebiao2.coverage" NAME="liebiao2 Coverage Results" MODIFIED="1531548804029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
     <SUITE FILE_PATH="coverage/helloWord$diguihanshu.coverage" NAME="diguihanshu Coverage Results" MODIFIED="1531399221340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$huanhang.coverage" NAME="huanhang Coverage Results" MODIFIED="1531289096227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$fushuxing.coverage" NAME="fushuxing Coverage Results" MODIFIED="1531289135094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$biaobai.coverage" NAME="biaobai Coverage Results" MODIFIED="1531281820819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
-    <SUITE FILE_PATH="coverage/helloWord$lainxiti.coverage" NAME="lainxiti Coverage Results" MODIFIED="1534252615150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
+    <SUITE FILE_PATH="coverage/helloWord$lainxiti.coverage" NAME="lainxiti Coverage Results" MODIFIED="1534322554634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
     <SUITE FILE_PATH="coverage/helloWord$suoyin.coverage" NAME="suoyin Coverage Results" MODIFIED="1531290292770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/helloWord$learn05.coverage" NAME="learn05 Coverage Results" MODIFIED="1535355752810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
     <SUITE FILE_PATH="coverage/helloWord$kebiancanshu.coverage" NAME="kebiancanshu Coverage Results" MODIFIED="1531383683038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$guanjianzicanshu.coverage" NAME="guanjianzicanshu Coverage Results" MODIFIED="1531458748165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$demo.coverage" NAME="demo Coverage Results" MODIFIED="1531289322243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/helloWord$learn2.coverage" NAME="learn2 Coverage Results" MODIFIED="1534396895912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
     <SUITE FILE_PATH="coverage/helloWord$wujioaxing.coverage" NAME="wujioaxing Coverage Results" MODIFIED="1531459095916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$bioabai.coverage" NAME="bioabai Coverage Results" MODIFIED="1531404188931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$break.coverage" NAME="break Coverage Results" MODIFIED="1531404210404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
@@ -76,6 +56,7 @@
     <SUITE FILE_PATH="coverage/helloWord$while.coverage" NAME="while Coverage Results" MODIFIED="1531543298101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$xunhaun.coverage" NAME="xunhaun Coverage Results" MODIFIED="1531297814909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$morencanshu.coverage" NAME="morencanshu Coverage Results" MODIFIED="1531382251524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/helloWord$learn07.coverage" NAME="learn07 Coverage Results" MODIFIED="1535460770062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
     <SUITE FILE_PATH="coverage/helloWord$helloWord.coverage" NAME="helloWord Coverage Results" MODIFIED="1531143162980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/helloWord$tiaojianpamfuan.coverage" NAME="tiaojianpamfuan Coverage Results" MODIFIED="1531296015206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/helloWord$jijianchengchu.coverage" NAME="jijianchengchu Coverage Results" MODIFIED="1531404481981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
@@ -83,56 +64,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="liebiao2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo2/liebiao2.py">
+      <file leaf-file-name="learn04.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo2/learn04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="675">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lainxiti.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo2/lainxiti.py">
+      <file leaf-file-name="learn05.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo2/learn05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learn01.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo2/learn01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lianxi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo2/lianxi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-375">
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="liebaio.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo2/liebaio.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo2/class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="2150">
+              <caret line="86" column="31" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -140,18 +85,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gaojiehanshu.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo2/gaojiehanshu.py">
+      <file leaf-file-name="learn06.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo2/learn06.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="239">
+              <caret line="54" column="59" selection-start-line="54" selection-start-column="59" selection-end-line="54" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo2/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="learn07.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo2/learn07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="311" selection-start-line="311" selection-end-line="311" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functools.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/functools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="71" column="19" selection-start-line="66" selection-start-column="8" selection-end-line="79" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -203,8 +170,14 @@
         <option value="$PROJECT_DIR$/demo2/liebiao2.py" />
         <option value="$PROJECT_DIR$/demo2/class.py" />
         <option value="$PROJECT_DIR$/demo2/pthonfile.py" />
-        <option value="$PROJECT_DIR$/demo2/lainxiti.py" />
         <option value="$PROJECT_DIR$/demo2/learn01.py" />
+        <option value="$PROJECT_DIR$/demo2/lainxiti.py" />
+        <option value="$PROJECT_DIR$/demo2/learn2.py" />
+        <option value="$PROJECT_DIR$/demo2/learn03.py" />
+        <option value="$PROJECT_DIR$/demo2/learn04.py" />
+        <option value="$PROJECT_DIR$/demo2/learn05.py" />
+        <option value="$PROJECT_DIR$/demo2/learn07.py" />
+        <option value="$PROJECT_DIR$/demo2/learn06.py" />
       </list>
     </option>
   </component>
@@ -217,7 +190,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="12" />
     <option name="width" value="1400" />
@@ -232,6 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,11 +218,14 @@
               <item name="helloWord" type="462c0819:PsiDirectoryNode" />
               <item name="demo2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="helloWord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,8 +250,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lainxiti">
-    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.learn06">
+    <configuration name="learn03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloWord" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,13 +264,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/learn03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="gaojiehanshu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learn04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloWord" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,13 +283,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/gaojiehanshu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/learn04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="lainxiti" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learn05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloWord" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,13 +302,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/lainxiti.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/learn05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learn06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloWord" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,13 +321,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/lianxi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/learn06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="liebiao2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learn07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="helloWord" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,26 +340,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/liebiao2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/learn07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.liebiao2" />
-      <item itemvalue="Python.gaojiehanshu" />
-      <item itemvalue="Python.lianxi" />
-      <item itemvalue="Python.class" />
-      <item itemvalue="Python.lainxiti" />
+      <item itemvalue="Python.learn03" />
+      <item itemvalue="Python.learn04" />
+      <item itemvalue="Python.learn05" />
+      <item itemvalue="Python.learn06" />
+      <item itemvalue="Python.learn07" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lainxiti" />
-        <item itemvalue="Python.class" />
-        <item itemvalue="Python.lianxi" />
-        <item itemvalue="Python.gaojiehanshu" />
-        <item itemvalue="Python.liebiao2" />
+        <item itemvalue="Python.learn06" />
+        <item itemvalue="Python.learn07" />
+        <item itemvalue="Python.learn05" />
+        <item itemvalue="Python.learn04" />
+        <item itemvalue="Python.learn03" />
       </list>
     </recent_temporary>
   </component>
@@ -409,29 +386,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32882884" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50061125" side_tool="true" weight="0.5078829" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32995495" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49938875" weight="0.5078829" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2804054" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32995495" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17665036" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2804054" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32882884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19193155" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.48986486" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4256757" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
     </layout>
   </component>
@@ -469,11 +447,28 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="36" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="45" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>self.score</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>letterlist</expression-string>
         <language-id>Python</language-id>
@@ -492,57 +487,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo2/liebaio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/liebiao2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/gaojiehanshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloWord.py" />
-    <entry file="file://$PROJECT_DIR$/heiil.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="780" selection-start-line="780" selection-end-line="780" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/time.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2500">
-          <caret line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/huanhang.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -770,53 +714,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo2/class.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/lianxi.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/liebaio.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/gaojiehanshu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/lainxiti.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/liebiao2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/learn2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/learn01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/learn03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/learn04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="71" column="19" selection-start-line="66" selection-start-column="8" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/learn05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2150">
+          <caret line="86" column="31" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/liebiao2.py">
+    <entry file="file://$PROJECT_DIR$/demo2/learn07.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="175">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/lainxiti.py">
+    <entry file="file://$PROJECT_DIR$/demo2/learn06.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/lianxi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/liebaio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/gaojiehanshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/learn01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="239">
+          <caret line="54" column="59" selection-start-line="54" selection-start-column="59" selection-end-line="54" selection-end-column="59" />
         </state>
       </provider>
     </entry>
